@@ -25,7 +25,7 @@
 2. naranja
 3. piña
 
-[ google.com ]
+[http://www.google.com]
 
 <!-- Citas -->
 > Esta es una cita
