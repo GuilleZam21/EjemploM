@@ -25,7 +25,7 @@
 2. naranja
 3. piña
 
-[google.com]
+[ google.com ]
 
 <!-- Citas -->
 > Esta es una cita
@@ -67,5 +67,5 @@ Campo A0 Campo B0
 Campo A1 Campo B1
 
 <!-- Imágenes -->
+
 ![flores favoritas](flor.jpg "Mi flor")
-# EjemploM
